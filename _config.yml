@@ -1,5 +1,5 @@
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:short_year/:month/:day/:title:output_ext
 
 # Setup
 title:          Jack's Blog
